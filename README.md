@@ -1,1 +1,2 @@
 # miniUber
+A real-time Uber-like Server that provides a platform for both rider and driver to share locations and request/accept order, implemented by Spring Boot and Spring Cloud based on microservice architecture
